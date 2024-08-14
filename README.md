@@ -1,2 +1,2 @@
 # TDA-Cola-AlgoII
-TDA Cola Enlazada de la materia Algoritmos y Programación II de FIUBA. 2C 2021.
+TDA Cola Enlazada de la materia Algoritmos y Programación II. Cátedra Buchwald. FIUBA. 2C 2021.
